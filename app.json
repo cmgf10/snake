@@ -1,0 +1,8 @@
+{
+	"name":"Snake",
+	"description": "Snake multiplayer",
+	"repository": "https://github/cmgf10/snake",
+	"logo": "http://node-js-sample.herokuapp.com/node.svg",
+	"keywords": ["node", "express", "game"],
+	"image": "heroku/nodejs"
+}
